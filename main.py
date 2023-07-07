@@ -110,7 +110,7 @@ functions = [
   {
     "name": "transform_image",
     "description":
-    "Transform an existing image. When transforming or editing the picture. Since the model takes a prompt as input it's important to keep the original subject and scene in the prompt and just edit what the user asks.Explain how you are crafting the prompt and your creative decision. just dont be too verbose.In the prompt you NEVER use words like change, transform etc.",
+    "Transform an existing image. When transforming or editing the picture. Since the model takes a prompt as input it's important to keep the original subject and scene in the prompt and just edit what the user asks.Explain how you are crafting the prompt and your creative decision. just dont be too verbose.In the prompt you NEVER use words like change, transform, edit etc.",
     "parameters": {
       "type": "object",
       "properties": {
